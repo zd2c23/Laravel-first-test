@@ -1,2 +1,6 @@
-hoge0
+
+hoge.
 hoge1
+
+hogehoge.
+hogehogehoge.
